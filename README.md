@@ -3,9 +3,9 @@
 System Hardware Components:
 - Arduino as main controller.
 - 4 Light Dependent Resistors for sensing sunlight intensity.
-- 2 Servo motors as actuators to rotate the panel vertically and horizontally.
+- 2 Servo motors as actuators to rotate the panel about vertical and horizontal axes.
 - B25 Voltage sensor to sense the voltage output from the Solar panel.
-- 20x4 LCD sreen.
+- 16x2 LCD sreen.
 - 12v mini soalar panel.
 
 Operation:
