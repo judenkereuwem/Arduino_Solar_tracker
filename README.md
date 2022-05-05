@@ -12,4 +12,4 @@ Operation:
 - The 4 LDRs are place to faced the four cardinal ponts (East, West, North and South). 
 - If an LDR detects the highest intensity among the four, the servo moves the panel to that direction at angle suitable to capture the sunlight.
 - The B25 voltage sensor senses continuouly the voltage from the the solar panel.
-- Information from the system such as Panel voltage and Panel directions are displayed on a 20X4 LCD screen.  
+- Information from the system such as Panel voltage and Panel directions are displayed on a 16x2 LCD screen.  
